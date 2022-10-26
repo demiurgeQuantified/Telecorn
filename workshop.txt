@@ -1,0 +1,9 @@
+version=1
+id=2879956312
+title=Change Telecorn Spawnrate
+description=After the sudden jump in awareness in the PZ community of telecorn, I created this mod to allow you to control the chance of telecorn spawning. As it is by default very rare, you can increase the chance, make all corn telecorn or disable it entirely.
+description=
+description=If you enjoy this mod, I'd appreciate it a lot if you considered leaving me a tip ^u^
+description=[url=https://ko-fi.com/starseamstress][img]https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png[/img][/url]
+tags=Build 41;Balance;Items;Misc;Multiplayer;Silly/Fun
+visibility=public

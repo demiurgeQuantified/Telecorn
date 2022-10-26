@@ -1,0 +1,8 @@
+name=Change Telecorn Spawnrate
+id=Telecorn
+poster=telecorn.png
+icon=telecorn_icon.png
+description=Allows you to control the spawnrate of telecorn
+modversion=1.0.0
+authors=albion
+versionMin=41.00

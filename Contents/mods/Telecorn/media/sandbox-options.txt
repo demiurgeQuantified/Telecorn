@@ -1,0 +1,11 @@
+VERSION = 1,
+
+option Telecorn.Rarity
+{
+    type = enum,
+    numValues = 7,
+    default = 2,
+    page = LootRarity,
+    translation = Telecorn,
+    valueTranslation = Rarity,
+}
